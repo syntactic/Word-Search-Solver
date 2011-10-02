@@ -1,0 +1,10 @@
+3 3
+ABC
+DEF
+GHI
+5
+FED
+CAB
+GAD
+BID
+HIGH

@@ -1,0 +1,12 @@
+3 3
+ABC
+DEF
+GHI
+ X 
+NO_WRAP
+5
+FED
+CAB
+GAD
+BID
+HIGH

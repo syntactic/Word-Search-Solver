@@ -1,0 +1,10 @@
+5 1
+A
+B
+Z
+Z
+C
+WRAP
+2
+BLAH
+CAB
