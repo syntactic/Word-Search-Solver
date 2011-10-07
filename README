@@ -1,0 +1,6 @@
+This is a word search solver that I wrote in a few hours, and it still needs some cleaning up:
+
+- duplicate code can be abstracted
+- change directional methods to use int constants instead of string literals
+- documentation needs some work
+- requires more test cases
